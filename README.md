@@ -4,4 +4,4 @@ This repository is to organize smaller shortcuts that have been published by me.
 
 ## Download Links
 
-- **[Recover Reddit Text](https://routinehub.co/shortcut/9663/)**: Shortcut to recover deleted posts and comments from Reddit using the PushShift API
+- **[Reddit Recovery](https://routinehub.co/shortcut/9663/)**: Shortcut to recover deleted posts and comments from Reddit using the PushShift API
