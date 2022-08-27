@@ -2,6 +2,6 @@
 
 Static API endpoints for the shortcuts included in this repository
 
-#/updates/
+# /updates/
 
 Returns the latest version of the shortcut
