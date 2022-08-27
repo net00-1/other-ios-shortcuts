@@ -1,7 +1,7 @@
-# Description
+# Update API
 
-This repository is to organize smaller shortcuts that have been published by me. All relevant files and source code will be added as I'm able to migrate them to Jellycuts.
+Static API endpoints for the shortcuts included in this repository
 
-## Download Links
+#/updates/
 
-- **[Reddit Recovery](https://routinehub.co/shortcut/9663/)**: Shortcut to recover deleted posts and comments from Reddit using the PushShift API and Wayback Machine API
+Returns the latest version of the shortcut
