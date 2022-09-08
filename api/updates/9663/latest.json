@@ -1,7 +1,7 @@
 {
     "result": "success",
-    "version": "1E7",
-    "url": "https://www.icloud.com/shortcuts/b5bfc1d905d04c1898ef0ddd1a5fd6d5",
-    "notes": "NOTICE: migrated updater to a more responsive host. Consider updating as soon as possible to avoid slow performance.",
-    "release": "August 27, 2022"
+    "version": "1E8",
+    "url": "https://www.icloud.com/shortcuts/38f5cd6cca6a48b9ac36de1dee1f1651",
+    "notes": "Improved reddit URL support.",
+    "release": "September 8, 2022"
 }
